@@ -1,0 +1,15 @@
+venv/
+
+.idea*
+
+images/train/*
+images/test/*
+
+*.mp4
+*.h264
+
+research/*
+
+training/*
+
+*.record
